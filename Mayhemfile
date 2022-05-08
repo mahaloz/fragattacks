@@ -1,0 +1,5 @@
+project: fragattacks
+target: json_parser 
+
+cmds:
+  - cmd: /fuzz_json_parser
